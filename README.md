@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
-</p>
-
+![Sotero Romero banner](https://raw.githubusercontent.com/SoteroR/SoteroR/main/assets/banner.png)
 # Sotero Romero
 
 Cybersecurity MSc student at **EPFL & ETH Zurich**, with a background in Cyber Systems from DTU.
