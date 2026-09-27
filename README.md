@@ -6,6 +6,16 @@
 
 Cybersecurity MSc student at **EPFL & ETH Zurich**, with a background in Cyber Systems from **DTU**.
 
+Additional projects and contributions: [Sotero-Romero](https://github.com/Sotero-Romero)
+
+I occasionally play CTFs
+
+- **Faust CTF 2026** - Team Organizers
+- **Kalmart CTF 2026** - Team Organizers
+- **Dice CTF 2026** - Team Organizers
+
+
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SoteroR&theme=transparent&hide_border=true" alt="GitHub Streak" />
