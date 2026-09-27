@@ -1,7 +1,3 @@
-![Sotero Romero banner](https://githubusercontent.com/SoteroR/SoteroR/main/assets/banner.png)
-# Sotero Romero
-
-Cybersecurity MSc student at **EPFL & ETH Zurich**, with a background in Cyber Systems from DTU.
 
 # Sotero Romero
 
