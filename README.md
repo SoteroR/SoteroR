@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Sotero Romero banner">
+  <img src="./assets/banner.png" width="100%" alt="Banner">
 </p>
 
 # Sotero Romero
