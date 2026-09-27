@@ -14,13 +14,9 @@ Currently exploring the intersection of security and AI, while building things a
 
 ### GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SoteroR&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoteroR&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SoteroR&layout=compact&langs_count=6&hide_values=true&theme=dark_github" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SoteroR&layout=compact&langs_count=6&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=SoteroR&layout=compact&langs_count=6&hide_values=true&theme=dark_github)
 
 ---
 
